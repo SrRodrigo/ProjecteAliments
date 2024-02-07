@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Vista de la cámara para el escaneo -->
+    <SurfaceView
+        android:id="@+id/scannerSurfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Puedes agregar más elementos según tus necesidades -->
+
+</RelativeLayout>
